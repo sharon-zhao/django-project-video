@@ -8,7 +8,7 @@ from app.model.video import (
     VideoType, FromType, NationalityType, IdentityType,
     Video, VideoSub, VideoStar)
 from app.models import Comment
-from app.utils.common import check_and_get_video_type, handle_video
+from app.utils.common import check_and_get_video_type
 
 
 class ExternaVideo(View):
