@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app',
-    'djcelery'
 ]
 
 BROKER_URL = 'redis://localhost:6379/2'
