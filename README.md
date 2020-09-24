@@ -7,3 +7,5 @@ https://fierce-hollows-77763.herokuapp.com/client/video/ex
 
 ## Plan Story
 This is a Django full stack project, including create, read, update, and delete four methods. It has a self-build dashboard to control the front end, not build-in admin.
+![dashboard video](https://user-images.githubusercontent.com/62820094/94210298-530dfb80-fe9c-11ea-8daa-9287eb37696d.png)
+![dashboard user](https://user-images.githubusercontent.com/62820094/94210393-97010080-fe9c-11ea-8bb4-32387d9f6468.png)
